@@ -1,7 +1,5 @@
 <h2 align="center"> Tela de Login, Cadastro e Home - Flask 🚀 </h2>
 
-<em>Bem-vindo ao projeto **Tela de Login, Cadastro e Home** desenvolvido em Flask! Este projeto demonstra como criar uma aplicação web simples que inclui telas de login, cadastro e uma tela de home.</em>
-
 ## 📄 Descrição
 
 <em>Este projeto consiste em uma aplicação web simples que demonstra as funcionalidades de login, cadastro e uma tela de home. Ele é construído usando o framework Flask em Python e utiliza HTML, CSS e um servidor Flask para criar as páginas de login, cadastro e home.</em>
