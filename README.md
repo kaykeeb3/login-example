@@ -1,4 +1,4 @@
-<h2 align="center"> Tela de Login, Cadastro e Home - Flask 🚀 </h2>
+<h2 align="center"> Tela de Login, Cadastro e Home 🚀 </h2>
 
 ## 📄 Descrição
 
